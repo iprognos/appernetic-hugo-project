@@ -1,7 +1,10 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
 baseurl = "/"
 
+<<<<<<< HEAD
 # Remark if you want to disable multilingual support.
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 DefaultContentLanguage = "en"
 
 # If you want all of the languages to be put below their respective language code,
@@ -9,10 +12,15 @@ DefaultContentLanguage = "en"
 # will be in the root and other languages in their respective subfolder such as /sv/.
 # See [Languages] settings at the end of this file.
 
+<<<<<<< HEAD
 # Use this languageCode if it's not a multilingual site and also remove all language blocks and menus in the language sections to disable multilingual support.
 # language blocks.
 # Language
 #languageCode = "en"
+=======
+# Language
+languageCode = "en"
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 
 # SES friendly url:s
 canonifyurls = true
@@ -121,7 +129,11 @@ extensionmask = []
 #        name = "Showcase"
 #        weight = 3
 #        identifier = "showcase"
+<<<<<<< HEAD
 # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+=======
+# i18n menues. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 #[[Languages.sv.menu.switchlang]]
 #  name = "English"
 #  identifier = ""
@@ -131,7 +143,10 @@ extensionmask = []
 
 [Languages]
 [Languages.en]
+<<<<<<< HEAD
 languageCode = "en"
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 weight = 1
 copyright = "(c) 2016 Copyright my blog"
 title = "My blog" # Site title
@@ -170,7 +185,10 @@ weight = 2
 url = "/terms/"
 
 [Languages.sv]
+<<<<<<< HEAD
 languageCode = "sv"
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 weight = 2
 title = "Min blog" # Site title
 copyright = "(c) 2016 Alla rättigheter"

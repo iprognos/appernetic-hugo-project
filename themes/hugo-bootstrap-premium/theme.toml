@@ -1,15 +1,26 @@
 name = "Hugo Bootstrap Premium"
 license = "MIT"
 licenselink = "https://github.com/appernetic/hugo-bootstrap-premium/LICENSE.md"
+<<<<<<< HEAD
 description = "A hugo theme using bootstrap, bootswatch, font-awesome, highlight.js, a popover email opt-in form and i18n"
 homepage = "https://github.com/appernetic/hugo-bootstrap-premium"
 tags = ["Blog", "Technical", "Personal", "Corporate", "Multilingual", "Bootstrap", "Disqus", "Opt-in form"]
 features = ["Blog", "Technical", "Personal", "Corporate", "Responsive", "Google Analytics", "Bootstrap", "Bootswatch", "font-awesome", "Opt-in form", "Sumome", "Mailmunch","Multilingual", "i18n"]
+=======
+description = "A hugo theme using bootstrap, bootswatch, font-awesome, highlight.js and a popover email opt-in form"
+homepage = "https://github.com/appernetic/hugo-bootstrap-premium"
+tags = ["Blog", "Technical", "Personal"]
+features = ["Blog", "Technical", "Personal", "Responsive", "Google Analytics", "Bootstrap", "Bootswatch", "font-awesome", "opt-in form", "Sumome", "Mailmunch","Multilingual", "i18n"]
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 min_version = 0.15
 
 [author]
     name = "Göran Svensson"
+<<<<<<< HEAD
     homepage = "https://appernetic.github.io"
+=======
+    homepage = "http://appernetic.github.io"
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 
 [original]
     author =  "Murali Rath/Steven Enten"

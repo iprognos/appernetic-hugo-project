@@ -1,6 +1,10 @@
 hugo-bootstrap-premium
 ======================
+<<<<<<< HEAD
 A theme with multilingual themes support, bootstrap, bootswatch(optional), mathjax, font-awesome, highlightjs, popover opt-in form (optional), MailMunch (optional) and SumoMe (optional).
+=======
+A theme with multilingual themes support, bootstrap, bootswatch(optional), font-awesome, highlightjs, popover opt-in form (optional), MailMunch (optional) and SumoMe (optional).
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 
 *NOTE: This theme is copied from Hyde-Y. Not everything is ported to bootstrap.
 Feel free to make changes and open pull requests.*
@@ -164,12 +168,15 @@ disqusShortname = "your_disqus_shortname"
   optin = true #opt-in: true/false
 
 [params]
+<<<<<<< HEAD
     # menu for changing language. This changes languages with js and stores the choice with the help
     # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
     # md files needs to have the same name for each language abbreviation to work correctly. Example:
     # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
     switchlang = false
 
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
     # You can use markdown here.
     BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
     brand = "Appernetic blog" # brand image alt text.
@@ -220,12 +227,15 @@ disqusShortname = "your_disqus_shortname"
     #        name = "Showcase"
     #        weight = 3
     #        identifier = "showcase"
+<<<<<<< HEAD
     # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
     #[[Languages.sv.menu.switchlang]]
     #  name = "English"
     #  identifier = ""
     #  weight = 4
     #  url = "en"
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 
     [Languages]
     [Languages.en]
@@ -359,6 +369,7 @@ i18n bundles is located in themes/hugo-bootstrap-premium/i18n/
 
 I have created en.yaml and sv.yaml bundles.
 
+<<<<<<< HEAD
 ## Redirect for languages
 A visitor can manually change language if you enable switchlang = true in the [params] section in the config file and also enable DefaultContentLanguageInSubdir = true. Then add a menu section for each language like this in the config file:
 
@@ -379,6 +390,8 @@ This changes languages with js and stores the choice with the help of JavaScript
 
 If the visitor switch language when on a blog post we redirect to respective /post/ sub dir.
 
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 ## Popover e-mail subscription opt-in form
 
 The popover e-mail opt-in form is a bootstrap modal (also commonly referred to as a light box). You can configure it in the config.toml settings file. It detects mobile devices and sets a cookie. It will use a large modal and large buttons for mobile devices. You can enable/disable it, configure delay, activate popover if mouse leave window, number of days to not show it to visitors that has not subscribed, show an image etc. It is perfect to use it with services such as Zapier in combination with Mailchimp. The form will POST the variables: Email as a string and Optin as a boolean to the URL of your choice. The variables is case sensitive.
@@ -409,6 +422,7 @@ In static/js/popover/ you will find a minified and a un-minified version of popo
 
 You can use the theme with both SumoMe and MailMunch by adding the respective id's. If you use MailMunch it is easy to have it send your subscribers to MailChimp.
 
+<<<<<<< HEAD
 ## MathJax support
 
 Thanks to dselivanov, this theme now has support for MathJax.
@@ -417,6 +431,8 @@ With this setup, everything is in place for a natural usage of MathJax on pages 
 
 Read more about the [MathJax implementation](https://gohugo.io/tutorials/mathjax/).
 
+=======
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
 ## Tips
 
 * If you've added `theme = "hugo-bootstrap-premium"` to your `config.toml`, you don't need to keep using the `--theme=hugo-bootstrap-premium` flag!

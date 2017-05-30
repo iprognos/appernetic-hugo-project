@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+<!--<div class="container"></div>-->
+  <h2>{{ ( .Site.GetPage "home").Title }}</h2>
+{{ ( .Site.GetPage "home").Content }}
+
+{{ if eq .Site.Params.showbloglisting true }}
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
   <div class="container">
     {{ if .Site.Params.showBlogHeader }}
       <div class="row">
@@ -23,3 +31,7 @@
     </div>
 
   </div>
+<<<<<<< HEAD
+=======
+  {{ end }}
+>>>>>>> a75aede55539c01ddd8ae63ba44154cb288796cb
