@@ -1,7 +1,7 @@
 +++
 date = "2016-04-21T02:50:28+02:00"
 draft = false
-title = "Introduction"
+title = ""
 
 +++
 Hugo is written in [Go][] with support for multiple platforms.
@@ -29,7 +29,6 @@ Ideally, you should install it somewhere in your `PATH` for easy use.
 
 On OS&nbsp;X, if you have [Homebrew](http://brew.sh/), installation is even
 easier: just run `brew update && brew install hugo`.
-
 
 ### Installing Pygments (optional)
 

@@ -10,8 +10,7 @@ keywords = [
 ]
 date = "2016-12-05T12:29:19+01:00"
 title = "Test"
-type = "post"
-description = "description"
+
 taggar = [
   "Ett",
   "Två",
@@ -21,4 +20,4 @@ taggar = [
 
 # En rubrik
 
-Text om ämnet ett.
+Text om ämnet test.

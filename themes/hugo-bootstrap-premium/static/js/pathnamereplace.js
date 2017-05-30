@@ -12,9 +12,9 @@
  * To avoid unnecesary reload, build a nav menu for each language with the right path.
  */
 
-var defaultLang = CONTENTLANGUAGE, // has no folder (eg: //features/faqs)
+var defaultLang = CONTENTLANGUAGE, // get language from config file DefaultContentLanguage.
     pathArray = window.location.pathname.split( '/' ), // get the path and split the string on "/"
-    langArray = ["sv","es"], // Do not include the default lang here! You need to have a matching folder under root with the same structure as for the default language (eg: /se/features/faqs).
+    langArray = ["sv","es"], // Do not include the default lang here! For pages just create files like this: filename.en.md, filename.sv.md). For blog posts we redirect to the front page for each language.
     passtrueArray = ["CampaignProcess.aspx","FormProcessv2.aspx"], // sometimes it is not possible to add language support to a module. Then we do not check language.
     constructPath = window.location.protocol + "//" + window.location.host;
     pathArray.splice(0,1); // remove the first item which is empty
@@ -60,12 +60,23 @@ function changeLanguage(theLanguage){
      if (theLanguage != defaultLang) {
             // remove the first item
               pathArray.splice(0,1);
+
+
             // add the Language
             pathArray.splice(0, 0, theLanguage);
+            console.log(pathArray.length);
             if (thepathname != buildPath(pathArray)){
+
              // create cookie
             Cookies.set('selectedLanguage', theLanguage);
+            // replace path
+
+            if (pathArray.length > 4)  {
+                window.location.replace(constructPath + '/' + theLanguage + '/post');
+            } else {
                 window.location.replace(constructPath + buildPath(pathArray));
+            }
+
             }
         }
 }

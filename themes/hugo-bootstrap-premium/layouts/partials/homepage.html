@@ -1,3 +1,8 @@
+<!--<div class="container"></div>-->
+  <h2>{{ ( .Site.GetPage "home").Title }}</h2>
+{{ ( .Site.GetPage "home").Content }}
+
+{{ if eq .Site.Params.showbloglisting true }}
   <div class="container">
     {{ if .Site.Params.showBlogHeader }}
       <div class="row">
@@ -23,3 +28,4 @@
     </div>
 
   </div>
+  {{ end }}
