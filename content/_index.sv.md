@@ -6,11 +6,11 @@ type = "page"
 <header>
   <section class="video v-center">
     <div id="bgVideo" class="background" ><video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/Heaven-From-Top.jpg"><source src="/Heaven-From-Top.mp4" type="video/mp4">bgvideo</video></div>
-      <div>
-        <div class="hero-unit">
-          <div class="container">
-            <h1 class="hero-title-lg">iPrognos</h1>
-            <h2 class="title text-left">Liten text</h2>
+
+      <div class="hero-unit">
+          <div class="container text-left">
+            <h1 class="hero-title-lg">Aktieförutsägelser</h1>
+            <h2 class="title text-left">Hitta köp- och säljlägen snabbt med tekniska indikatorer och AI</h2>
             <div class="row card-header">
               <div class="col-lg-3 col-md-4 col-md-height col-bottom vermietung">
                 <ul class="list-unstyled list-inline list-cards" >
@@ -56,7 +56,7 @@ type = "page"
             </div>
           </div>
         </div>
-      </div>
+
     </section>
   </header>
 
