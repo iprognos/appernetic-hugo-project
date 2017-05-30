@@ -159,6 +159,16 @@ z-index: 2;
   color: #EEA900;
   text-shadow: 1px 1px 2px #082b34;}
 
+/*
+.jumbotron h1, .jumbotron .h1 {
+  color: #EEA900;
+  text-shadow: 1px 1px 2px #082b34;
+}*/
+/*.jumbotron h2, .jumbotron .h2 {
+  color:#fff;
+  text-shadow: 1px 1px 2px #082b34;
+}*/
+
 
 /*.title {
     letter-spacing: 1.3px;
