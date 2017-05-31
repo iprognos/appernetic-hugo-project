@@ -385,6 +385,18 @@ section#inzahlen h1  {
 }
 
 
+section#indikatorer{
+   padding-top: 50px;
+   padding-bottom: 100px;
+   padding-left: 0px;
+}
+
+section#prognoser{
+   padding-top: 50px;
+   padding-bottom: 100px;
+   padding-left: 0px;
+}
+
 section#services{
    padding-top: 50px;
    padding-bottom: 100px;
@@ -398,10 +410,10 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
+    margin-bottom: 40px;
     text-transform: none;
   font-family: Roboto, sans-serif;
-    font-size: 16px;
+    font-size: 22px;
     font-style: italic;
     font-weight: 400;
 }
@@ -776,7 +788,14 @@ section#contact:-ms-input-placeholder {
 section#contact .text-danger {
     color: #e74c3c;
 }
+
 footer {
+    padding: 25px 0;
+    text-align: left;
+
+}
+
+.footer {
     padding: 25px 0;
     text-align: left;
     background-color: #333;
@@ -788,6 +807,8 @@ footer span.copyright {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    background-color: #333;
+    color: #7f7f7f;
 }
 
 footer ul.quicklinks {
@@ -796,6 +817,8 @@ footer ul.quicklinks {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    background-color: #333;
+    color: #7f7f7f;
 }
 
 ul.social-buttons {
