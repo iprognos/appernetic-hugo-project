@@ -84,7 +84,8 @@ Vid simulering av köp läggs också en stop trailing order som triggas om kurse
       </div>
       <div class="row">
         <div class="col-lg-12">
-          <form  action="https://hooks.zapier.com/hooks/catch/2275182/9rrvdk/" method="POST" name="sentMessage" id="contactForm" novalidate onsubmit="window.location.href = '/sv/tack'; return false;">
+        <div id="form-messages"></div>
+          <form name="sentMessage" id="contactFormBottom" novalidate method="POST">
   		  <input type="hidden" name="Type" value="Beta program" />
             <div class="row">
               <div class="col-md-6">
@@ -98,7 +99,7 @@ Vid simulering av köp läggs också en stop trailing order som triggas om kurse
               <div class="clearfix"></div>
               <div class="col-lg-12 text-center">
                 <div id="success"></div>
-                <button type="submit" class="btn btn-primary btn-md">Skicka anmälan</button>
+                <button type="submit" value="submit" class="btn btn-primary btn-md">Skicka anmälan</button>                  
               </div>
             </div>
           </form>
