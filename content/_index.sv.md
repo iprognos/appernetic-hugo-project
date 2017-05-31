@@ -2,6 +2,13 @@
 title = ""
 draft = false
 type = "page"
+keywords = [
+  "OMX Stockholm",
+  "Stockholmsbörsen",
+  "Aktieförutsägelser",
+  "Förutsägelser"
+]
+description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med en kombination av tekniska indikatorer och AI (deep learning)."
 +++
 <header>
   <section class="video v-center">
@@ -10,7 +17,7 @@ type = "page"
     <div class="container text-left">
 <h1 class="hero-title-lg dont-break-out">Aktieförutsägelser</h1>
 
-<h2 class="title text-left dont-break-out">Hitta köp- och säljlägen snabbt med tekniska indikatorer och AI</h2>
+<h2 class="title text-left dont-break-out">Hitta köp eller säljlägen snabbt med tekniska indikatorer och AI</h2>
 <a class="btn btn-primary btn-lg uppercase page-scroll" href="#services">Börja här</a>
 
 
@@ -63,6 +70,38 @@ Vid simulering av köp läggs också en stop trailing order som triggas om kurse
           <h2 class="section-heading">Uträkning av prognoser</h2>
           <h3 class="section-subheading text-muted">För att räkna ut prognostiserad kurs används k-fold korsvalidering av tidsserien för att hitta den bästa MLP (multi layer perceptron neural network) strukturen (Antal gömda lager och antal noder).</h3>
 <p class="large">Strukturen väljs utifrån vilken nätverksstruktur som ger minst MSE (mean squared error). När bästa nätverkstrukturen har hittats används ett Elman neuralt nätverk med RPROP inlärningsalgoritm för att göra prognosen. </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="contact" class="hidden-md hidden-lg bg-light-gray">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Anmäl dig nu!</h2>
+          <h3 class="section-subheading text-muted">Vi har ett fåtal platser kvar till kölistan för beta programmet.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <form  action="https://hooks.zapier.com/hooks/catch/2275182/9rrvdk/" method="POST" name="sentMessage" id="contactForm" novalidate>
+  		  <input type="hidden" name="Type" value="Beta program" />
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group"><label class="text-muted small">Namn</label>
+                  <input class="form-control" name="name" placeholder="Förnamn / Efternamn" type="text" />
+                </div>
+                <div class="form-group"><label class="text-muted small">E-post</label>
+                  <input class="form-control" name="email" placeholder="E-post" type="email" />
+                </div>
+              </div>
+              <div class="clearfix"></div>
+              <div class="col-lg-12 text-center">
+                <div id="success"></div>
+                <button type="submit" class="btn btn-primary btn-md">Skicka anmälan</button>
+              </div>
+            </div>
+          </form>
         </div>
       </div>
     </div>

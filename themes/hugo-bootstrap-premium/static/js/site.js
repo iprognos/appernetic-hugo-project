@@ -53,3 +53,30 @@ $(function(){
 $('.navbar-collapse ul li a').click(function() {
   $('.navbar-toggle:visible').click();
 });
+
+// floating form
+$(function() {
+  console.log(smalldevice);
+  //if (smalldevice == true){
+  $("#feedback-tab").click(function() {
+    $("#feedback-form").toggle("slide");
+  //  setTimeout(function(){ $("#feedback-form").toggle("slide").show(); }, 8000);
+  });
+  //}
+  // show form after specifed timeout
+  if(smalldevice == false) {
+    setTimeout(function(){ $("#feedback-form").show(); }, 18000);
+  };
+  $("#feedback-form form").on('submit', function(event) {
+    var $form = $(this);
+    $.ajax({
+      type: $form.attr('method'),
+      url: $form.attr('action'),
+      data: $form.serialize(),
+      success: function() {
+        $("#feedback-form").toggle("slide").find("textarea").val('');
+      }
+    });
+    event.preventDefault();
+  });
+});
