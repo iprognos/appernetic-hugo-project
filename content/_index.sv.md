@@ -10,7 +10,7 @@ type = "page"
     <div class="container text-left">
 <h1 class="hero-title-lg dont-break-out">Aktieförutsägelser</h1>
 
-<h2 class="title text-left dont-break-out">Hitta köp- och säljlägen snabbt med tekniska indikatorer och AI för OMX Stockholm</h2>
+<h2 class="title text-left dont-break-out">Hitta köp- och säljlägen snabbt med tekniska indikatorer och AI</h2>
 <a class="btn btn-primary btn-lg uppercase page-scroll" href="#services">Börja här</a>
 
 
