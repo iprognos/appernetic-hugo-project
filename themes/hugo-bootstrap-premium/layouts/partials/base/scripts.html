@@ -28,11 +28,6 @@
     dsq.src = '//{{ . }}.disqus.com/count.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
   })();
-  $('#return-to-top').click(function() {      // When arrow is clicked
-    $('body,html').animate({
-        scrollTop : 0                       // Scroll to top of body
-    }, 500);
-});
 
 </script>
 {{ end }}
@@ -96,4 +91,9 @@ $(document).ready(function() {
 function showResponse(responseText, statusText, xhr, $form)  {
 $("#form-messages").text('Tack! Du har nu blivit anmäld till kölistan för iPrognos Beta test program. Vi återkommer med information om när Beta programmet öppnar dörrarna!');
 }
+$('#return-to-top').click(function() {      // When arrow is clicked
+  $('body,html').animate({
+      scrollTop : 0                       // Scroll to top of body
+  }, 500);
+});
 </script>
