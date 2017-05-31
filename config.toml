@@ -176,7 +176,7 @@ url = "sv"
 languageCode = "sv"
 weight = 2
 title = "iPrognos" # Site title
-copyright = "(c) 2017 Alla rättigheter"
+copyright = "(c) 2017 iPrognos Alla rättigheter"
 
 #[[Languages.sv.menu.main]]
 #name = "Bloggen"
