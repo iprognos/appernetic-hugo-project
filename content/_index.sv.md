@@ -74,6 +74,18 @@ Vid simulering av köp läggs också en stop trailing order som triggas om kurse
       </div>
     </div>
   </section>
+  <section id="indikatorer" class="bg-light-gray page-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 class="section-heading">Beta test programmet</h2>
+          <h3 class="section-subheading text-muted">En webbtjänst har utvecklats (SaaS) som ger en översikt med prognoser för alla aktier på Stockholmsbörsen med interaktiva grafer. </h3>
+          <p class="large">Tjänsten har utvecklats till en fungerande prototyp (MVP) och iPrognos har genomfört långtidstester som har givit mycket goda resultat. Nu behöver vi din hjälp för att göra den ännu  bättre. Så anmäl dig via formuläret till höger eller här under om du använder en mobil.</P>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section id="contact" class="hidden-md hidden-lg bg-light-gray">
     <div class="container">
       <div class="row">
