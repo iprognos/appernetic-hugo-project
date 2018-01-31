@@ -34,9 +34,12 @@ description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt f�
       <div class="row">
         <div class="col-lg-12">
           <h2 class="section-heading">iPrognos handelsstrategi</h2>
-          <h3 class="section-subheading text-muted">Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med en kombination av tekniska indikatorer och AI (deep learning).</h3>
-          <p class="large">Välj ut aktier med köpindikation som har bäst rankning utifrån avkastning räknat på medeltal för 1, 4 och 8 månader. Aktier med bäst avkastning hamnar först i listan.
-          Simuleringen är gjord fram till angivet datum med köp eller säljråd som gäller för nästkommande dag. Simulera för vald aktie hur bra strategin har fungerat historiskt. Gör en prognos 5 dagar framåt och använd den i simuleringen. Jämför statistik för strategin med och utan prognos. Testa att simulera med olika % för stop loss och stop limit för att se vad som ger bästa avkastning.</p>
+          <h3 class="section-subheading text-muted">Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med en kombination av tekniska indikatorer och AI (djupinlärning).</h3>
+          <p class="large">Välj ut aktier med hjälp av djupinlärning som förutser den totala dynamiken i aktiernas pris med marginal för transaktionskostnader.
+En indikator används som summerar aktiens utveckling under kommande 10 dagar.
+Idén är att variabeln signalerar dagar som klart ligger över målvariationen (0.25).
+Positivt värde på indikatorn indikerar att det är flera dagar som i medeltal är n % högre än dagens stängningskurs, vilket kan vara ett bra köp läge.
+Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
         </div>
       </div>
     </div>
