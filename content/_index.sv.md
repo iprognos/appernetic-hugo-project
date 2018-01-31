@@ -37,7 +37,7 @@ description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt f�
           <h3 class="section-subheading text-muted">Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med en kombination av tekniska indikatorer och AI (djupinlärning).</h3>
           <p class="large">Välj ut aktier med hjälp av djupinlärning som förutser den totala dynamiken i aktiernas pris med marginal för transaktionskostnader.
 En indikator används som summerar aktiens utveckling under kommande 10 dagar.
-Idén är att variabeln signalerar dagar som klart ligger över målvariationen (0.25).
+Idén är att variabeln signalerar dagar som klart ligger över målvariationen (0.25%).
 Positivt värde på indikatorn indikerar att det är flera dagar som i medeltal är n % högre än dagens stängningskurs, vilket kan vara ett bra köp läge.
 Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
         </div>
