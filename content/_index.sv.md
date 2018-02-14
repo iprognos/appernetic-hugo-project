@@ -63,19 +63,6 @@ Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
       </div>
     </div>
   </section>
-
-
-  <section id="prognoser">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="section-heading">Uträkning av prognoser</h2>
-          <h3 class="section-subheading text-muted">För att räkna ut prognostiserad kurs används k-fold korsvalidering av tidsserien för att hitta den bästa MLP (multi layer perceptron neural network) strukturen (Antal gömda lager och antal noder).</h3>
-<p class="large">Strukturen väljs utifrån vilken nätverksstruktur som ger minst MSE (mean squared error). När bästa nätverkstrukturen har hittats används ett Elman neuralt nätverk med RPROP inlärningsalgoritm för att göra prognosen. </p>
-        </div>
-      </div>
-    </div>
-  </section>
   <section id="indikatorer" class="bg-light-gray page-section">
     <div class="container">
       <div class="row">
