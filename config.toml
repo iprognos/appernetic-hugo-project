@@ -126,8 +126,8 @@ extensionmask = []
 
 
 
-[Languages]
-[Languages.en]
+#[Languages]
+#[Languages.en]
 languageCode = "en"
 weight = 2
 title = "iPrognos" # Site title
