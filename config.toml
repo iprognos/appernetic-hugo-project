@@ -3,7 +3,7 @@ baseurl = "https://www.iprognos.com/"
 
 relativeURLs = true
 
-#DefaultContentLanguage = "en"
+DefaultContentLanguage = "en"
 
 # If you want all of the languages to be put below their respective language code,
 # enable DefaultContentLanguageInSubdir = true. Without enabling it english content
