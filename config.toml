@@ -12,7 +12,7 @@ relativeURLs = true
 DefaultContentLanguageInSubdir = false
 
 # Language
-languageCode = "sv"
+languageCode = ""
 
 # SES friendly url:s
 canonifyurls = true
