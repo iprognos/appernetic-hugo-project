@@ -3,7 +3,7 @@ baseurl = "https://www.iprognos.com/"
 
 relativeURLs = true
 
-DefaultContentLanguage = "sv"
+DefaultContentLanguage = "en"
 
 # If you want all of the languages to be put below their respective language code,
 # enable DefaultContentLanguageInSubdir = true. Without enabling it english content
@@ -12,7 +12,7 @@ DefaultContentLanguage = "sv"
 #DefaultContentLanguageInSubdir = true
 
 # Language
-languageCode = "sv"
+languageCode = "en"
 
 # SES friendly url:s
 canonifyurls = true
@@ -127,8 +127,8 @@ extensionmask = []
 
 
 [Languages]
-[Languages.sv]
-languageCode = "sv"
+[Languages.en]
+languageCode = "en"
 weight = 2
 title = "iPrognos" # Site title
 copyright = "(c) 2017 iPrognos Alla rättigheter"
