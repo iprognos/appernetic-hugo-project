@@ -1,7 +1,7 @@
 +++
 title = ""
 draft = false
-type = "page"
+
 keywords = [
   "OMX Stockholm",
   "Stockholmsbörsen",
@@ -34,7 +34,7 @@ description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt f�
 <p><img src="http://res.cloudinary.com/dtnahfj7l/image/upload/c_scale,w_467/v1518350696/bubbeldiagram_crop_smexzb.png" alt="bubbeldiagram"></p>            
 Djupinlärning används för att förutse den totala dynamiken i aktiernas pris under 10 dagar med marginal för transaktionskostnader på 2.5%.
 
-Ett positivt värde på 100 för sannolikheten för uppgång under 10 dagar (kolumnen längst till höger i tabellen) indikerar att det är flera dagar som i medeltal är högre än dagens stängningskurs. 
+Ett positivt värde på 100 för sannolikheten för uppgång under 10 dagar (kolumnen längst till höger i tabellen) indikerar att det är flera dagar som i medeltal är högre än dagens stängningskurs.
 
 Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
         </div>
