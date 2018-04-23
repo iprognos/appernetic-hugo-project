@@ -10,7 +10,7 @@ keywords = [
 ]
 description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med hjälp av AI-djupinlärning."
 +++
-<header>
+<header>
   <section class="video v-center">
   <div id="bgVideo" class="background" ><video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/Heaven-From-Top.jpg"><source src="/Heaven-From-Top.mp4" type="video/mp4">bgvideo</video></div>
 <div class="hero-unit">
@@ -55,47 +55,3 @@ Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
     </div>
   </section>
   <section id="indikatorer" class="bg-light-gray page-section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="section-heading">Beta test programmet</h2>
-          <h3 class="section-subheading text-muted">En webbtjänst har utvecklats (SaaS) som ger en översikt med prognoser för alla aktier på Stockholmsbörsen med interaktiva grafer. </h3>
-          <p class="large">Tjänsten har utvecklats till en fungerande prototyp (MVP) och iPrognos har genomfört långtidstester som har givit mycket goda resultat. Nu behöver vi din hjälp för att göra den ännu  bättre. Så anmäl dig via formuläret till höger eller här under om du använder en mobil.</P>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="contact" class="hidden-md hidden-lg bg-light-gray">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading">Anmäl dig nu!</h2>
-          <h3 class="section-subheading text-muted">Vi har ett fåtal platser kvar till kölistan för beta programmet.</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-        <div id="form-messages"></div>
-          <form name="sentMessage" id="contactFormBottom" novalidate method="POST">
-  		  <input type="hidden" name="Type" value="Beta program" />
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group"><label class="text-muted small">Namn</label>
-                  <input class="form-control" name="name" placeholder="Förnamn / Efternamn" type="text" />
-                </div>
-                <div class="form-group"><label class="text-muted small">E-post</label>
-                  <input class="form-control" name="email" placeholder="E-post" type="email" />
-                </div>
-              </div>
-              <div class="clearfix"></div>
-              <div class="col-lg-12 text-center">
-                <div id="success"></div>
-                <button type="submit" value="submit" class="btn btn-primary btn-md">Skicka anmälan</button>                  
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
