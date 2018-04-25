@@ -89,6 +89,7 @@ Courtage är medräknade. Totalt +4.85%
 ![enter image description here][6]
 OMX Stockholm Benchmarkindex 2018-01-02 till 2018-03-02
 ![enter image description here][7]
+![enter image description here][8]
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
@@ -97,4 +98,5 @@ OMX Stockholm Benchmarkindex 2018-01-02 till 2018-03-02
   [4]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650346/indikatornibe_au4y88.jpg
   [5]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650313/image3_ljgf1f.jpg
   [6]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650327/image7_bq0j19.jpg
-  [7]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650320/image4_r9jyra.jpg
+  [7]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650301/image2_xonw7v.jpg
+  [8]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650320/image4_r9jyra.jpg
