@@ -87,22 +87,12 @@ Nolato B köp 2 januari, sälj 12 januari, köp 26 januari, sälj 30 januari. +1
 Courtage är medräknade. Totalt +4.85%
 ![enter image description here][5]
 ![enter image description here][6]
-OMX Stockholm Benchmarkindex 2018-01-02 till 2018-03-02
+OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.
 ![enter image description here][7]
-Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitiet och hög avkastning fram till 2018-01-02 kan vi välja de aktier högst upp till vänster i diagrammet.
+Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitiet och hög avkastning fram till 2 Januari så kan vi välja de aktier högst upp till vänster i diagrammet.
 Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B. Här blir vinsten 17.76%
-
+Avkastningen blir då 32810. En uppgång från 184683 till 217493. +17.76%.
 ![enter image description here][8]
-189 Balder B
-39 Biotage
-22 Nolato B
-165 Troax
-33 Victoria Park B
-
-217493
-184683
-32810
-17.76%
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
