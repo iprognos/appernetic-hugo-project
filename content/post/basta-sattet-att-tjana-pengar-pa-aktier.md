@@ -21,7 +21,8 @@ Nobelpristagaren William Sharpe upptäckte ett samband  mellan avkastning och ri
 Sharpe-kvoten = (Avkastningen – Riskfria räntan) / volatiliteten
 
 ## Vad är en bra riskkvot?
-Formeln ger att en hög avkastning och låg svängning i portföljen ger en större Sharpe-kvot. Så ju högre Sharpe-kvot desto bättre. På kort sikt kan värdet svänga kraftigt men över tiden brukar de hamna på 0.2 - 0.6. 
+Formeln ger att en hög avkastning och låg svängning i portföljen ger en större Sharpe-kvot. Så ju högre Sharpe-kvot desto bättre.  
+På kort sikt kan värdet svänga kraftigt men över tiden brukar de hamna på 0.2 - 0.6. 
 
 Många fondförvaltare redovisar sharpe-kvoten såsom Morningstar, Avanza och Nordnet.
 
