@@ -131,8 +131,10 @@ Courtage är medräknade. Totalt +4.85%
 ![enter image description here][5]
 ![enter image description here][6]
 OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.
-![enter image description here][7]
+
 ## Lågriskstrategi
+![enter image description here][7]
+
 Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitiet och hög avkastning fram till 2 Januari, så kan vi välja de aktier högst upp till vänster i diagrammet.
 
 
