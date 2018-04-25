@@ -1,6 +1,5 @@
 ---
 type: "post"
-draft: true
 author: "author"
 description: "description"
 keywords: ["key", "words"]
@@ -8,8 +7,7 @@ topics: ["topic 1"]
 tags: ["one", "two"]
 ---
 
-
-![enter image description here][1]
+![enter image description here][1]
 # Bästa sättet att tjäna pengar på aktier
 Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen. Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
 ## Hur värderar jag risken?
