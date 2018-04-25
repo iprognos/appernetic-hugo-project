@@ -67,6 +67,20 @@ Börslabbet: https://borslabbet.se/borslabbets-strategier/
 Lunds universitet Profitability of momentum strategies on the nordic stock market 2006: http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1348919&fileOId=2434583
 Lappeenranta University of Technology, Performance of value and momentum strategies in the Swedish stock market 2016: https://www.doria.fi/bitstream/handle/10024/120274/VALMIS.pdf?sequence=2&isAllowed=y
 ![enter image description here][4]
+Vi väljer  de 5 aktier som hade bästa rankningen i början på året och ser hur de har utvecklats fram till 2 mars.
+Med en simulerad investering på 100000SEK i varje aktie, köps och säljs den baserat på sannolikheten för att uppgång är 100%, säljs om sannolikhet för uppgång är 0%. 
+Den simulerade köpkursen är öppningskursen dagen efter prognosen.  
+Då får vi följande avkastning
+170589
+196717
+26128
+
+Sensys Gatso Group,  0
+Eolus Vind B, -2840
+Hexatronic Group +2917
+MedCap, 0
+Nolato B +26051
+En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
