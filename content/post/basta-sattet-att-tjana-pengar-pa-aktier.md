@@ -81,6 +81,10 @@ Hexatronic Group +2917
 MedCap, 0
 Nolato B +26051
 En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
+Jag gjorde egna köp på Avanza under perioden med information från simuleringen: 
+MedCap köp den 7 feburari och sälj den 13 februari +7.8%.
+Nolato B köp 2 januari, sälj 12 januari, köp 26 januari, sälj 30 januari. +1.9%.
+Courtage är medräknade. Totalt +4.85%
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
