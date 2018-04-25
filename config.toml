@@ -96,7 +96,7 @@ sumomeid = "" # Sumome id
 mathjax = "2.7.1" # cdnjs hosted version; empty string to disable mathjax
 
 # Show a sidebar menu
-showRightSidebar = true
+showRightSidebar = false
 # Select a syntax highlight.
 # Check the static/css/highlight directory for options.
 highlight = "default"
