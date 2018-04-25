@@ -1,11 +1,10 @@
 +++
 date = "2016-04-24T02:50:28+02:00"
-draft = false
+draft = true
 title = "What is Hugo?"
 
 +++
-
-Hugo is a general-purpose website framework. Technically speaking, Hugo is
+Hugo is a general-purpose website framework. Technically speaking, Hugo is
 a static site generator. Unlike other systems which dynamically build a page
 every time a visitor requests one, Hugo does the building when you create
 your content. Since websites are viewed far more often than they are
