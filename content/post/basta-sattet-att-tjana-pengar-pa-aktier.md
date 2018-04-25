@@ -53,8 +53,9 @@ Min hypotes är att om man kan låta datorerna sköta aktieanalysen genom att sa
 Teknisk analys ,TA som jag använder för att bestämma köp och säljlägen skulle man kunna förklara som ett fönster vi kan titta in i för att se psykologin bakom marknadens handel och rörelser.  
 Flertalet påstår att priset på en aktie är slumpvist satt. Det är inte helt sant.  
 Flera forskningsrapporter menar att marknaden inte är helt slumpmässig men att slumpmässighet och kaos förekommer periodvis (flockbeteende och spekulation)  och att marknaden kan jämföras med ett vädersystem.  
-Artikel om komplexitet och kaos och implementering av forskning inom kaosteori på finansmarknaden:
-https://www.r-bloggers.com/chaos-in-the-financial-markets/  
+Artikel om komplexitet och kaos och implementering av forskning inom kaosteori på finansmarknaden:  
+
+Kaos i finansmarkanden: https://www.r-bloggers.com/chaos-in-the-financial-markets/  
 The Heterogeneous Dynamics of Economic Complexity:
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117174  
 ## Djupinlärning av tekniska indikatorer
