@@ -13,7 +13,8 @@ title: "Bästa sättet att tjäna pengar på aktier"
 
 ![enter image description here][1]
 # Bästa sättet att tjäna pengar på aktier
-Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen. Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
+Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen.  
+ Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
 ## Hur värderar jag risken?
 Nobelpristagaren William Sharpe upptäckte ett samband  mellan avkastning och risk. Uppkallad efter honom kallas det för Sharpe kvoten, den visar på ett sätt att mäta risk genom att i formeln stoppa in avkastning, volatiliteten (svängningarna i portföljen) och den riskfria räntan:
 
