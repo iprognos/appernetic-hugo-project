@@ -87,6 +87,7 @@ Nolato B köp 2 januari, sälj 12 januari, köp 26 januari, sälj 30 januari. +1
 Courtage är medräknade. Totalt +4.85%
 ![enter image description here][5]
 ![enter image description here][6]
+OMX Stockholm Benchmarkindex 2018-01-02 till 2018-03-02
 ![enter image description here][7]
 
 
