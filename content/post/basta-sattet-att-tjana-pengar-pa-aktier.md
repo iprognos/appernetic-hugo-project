@@ -89,6 +89,9 @@ Courtage är medräknade. Totalt +4.85%
 ![enter image description here][6]
 OMX Stockholm Benchmarkindex 2018-01-02 till 2018-03-02
 ![enter image description here][7]
+Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitiet och hög avkastning fram till 2018-01-02 kan vi välja de aktier högst upp till vänster i diagrammet.
+Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B. Här blir vinsten 17.76%
+
 ![enter image description here][8]
 
 
