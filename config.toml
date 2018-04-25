@@ -109,8 +109,8 @@ github = "" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
 linkedin = "" # Your LinkedIn profile ID (from public URL)
 googleplus = "" # Your Google+ profile ID
-facebook = "Myprofile" # Your Facebook profile ID
-twitter = "Myprofile" # Your Twitter profile ID
+facebook = "https://www.facebook.com/iprognos" # Your Facebook profile ID
+twitter = "" # Your Twitter profile ID
 youtube = ""  # Your Youtube channel ID
 flattr = ""  # populate with your flattr uid
 
@@ -146,12 +146,12 @@ weight = 1
 title = "iPrognos" # Site title
 copyright = "(c) 2018 iPrognos Alla rättigheter"
 
-#[[Languages.en.menu.main]]
-#name = "Blog"
-#pre = ""
-#weight = 2
-#identifier = "post"
-#url = "/post/"
+[[Languages.en.menu.main]]
+name = "Blog"
+pre = ""
+weight = 2
+identifier = "post"
+url = "/post/"
 
 
 
