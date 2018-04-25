@@ -1,13 +1,14 @@
 ---
 type: "post"
-author: "author"
-description: "description"
-keywords: ["key", "words"]
-topics: ["topic 1"]
-tags: ["one", "two"]
+author: "Ulf Sv"
+description: "Bästa sättet att tjäna pengar på aktier. Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen. Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer. Hur värderar jag risken? Nobelpristagaren William Sharpe upptäckte ett samband  mellan avkastning och risk. Uppkallad efter honom kallas det för Sharpe kvoten, den visar på ett sätt att mäta risk genom att i formeln stoppa in avkastning, volatiliteten (svängningarna i portföljen) och den riskfria räntan"
+keywords: ["Aktier", "Aktieplacering"]
+topics: ["Aktieplacering"]
+tags: ["Aktier", "Aktieplacering"]
 ---
 
-![enter image description here][1]
+
+![enter image description here][1]
 # Bästa sättet att tjäna pengar på aktier
 Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen. Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
 ## Hur värderar jag risken?
