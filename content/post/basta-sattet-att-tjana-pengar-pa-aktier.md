@@ -93,6 +93,16 @@ Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitie
 Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B. Här blir vinsten 17.76%
 
 ![enter image description here][8]
+189 Balder B
+39 Biotage
+22 Nolato B
+165 Troax
+33 Victoria Park B
+
+217493
+184683
+32810
+17.76%
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
