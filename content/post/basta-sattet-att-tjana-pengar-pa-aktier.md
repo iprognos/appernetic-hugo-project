@@ -66,9 +66,10 @@ https://www.ft.com/content/58852d80-d910-11e3-837f-00144feabdc0
 Börslabbet: https://borslabbet.se/borslabbets-strategier/
 Lunds universitet Profitability of momentum strategies on the nordic stock market 2006: http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1348919&fileOId=2434583
 Lappeenranta University of Technology, Performance of value and momentum strategies in the Swedish stock market 2016: https://www.doria.fi/bitstream/handle/10024/120274/VALMIS.pdf?sequence=2&isAllowed=y
-
+![enter image description here][4]
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
   [2]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650131/analytics-colored-pencils-coloured-pencils-185576-2_vjltb3.jpg
   [3]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650334/image10_fuakuj.jpg
+  [4]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650346/indikatornibe_au4y88.jpg
