@@ -27,7 +27,8 @@ På kort sikt kan värdet svänga kraftigt men över tiden brukar de hamna på 0
 Många fondförvaltare redovisar sharpe-kvoten såsom Morningstar, Avanza och Nordnet.
 
 ## Är det bara tur om man lyckas investera rätt?
-Många menar på att det är ren slump som avgör om man lyckas investera i rätt aktier oavsett om man är en välutbildad fondförvaltare med resurser som superdatorer och stora analysavdelningar. Undersökningar har visat att ett endast 0.6% av stora fonder konsekvent slår indexet. 
+Många menar på att det är ren slump som avgör om man lyckas investera i rätt aktier oavsett om man är en välutbildad fondförvaltare med resurser som superdatorer och stora analysavdelningar.  
+Undersökningar har visat att ett endast 0.6% av stora fonder konsekvent slår indexet. 
 
 Eugen Fama har visat genom empirisk forskning hur marknaden beter sig i verkligheten och den stödjer den effektiva marknadshypotesen (EMH) vilket innebär att det är mycket svårt att vinna över marknaden genom att använda information som marknaden redan känner till. Framförallt över längre tidsperioder som 5 - 10 år.
 
