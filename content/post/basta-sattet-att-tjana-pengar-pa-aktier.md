@@ -81,6 +81,7 @@ Nolato B +26051
 
 En uppgång med 26128  från 170589 till 196717.
 En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
+
 Jag gjorde egna köp på Avanza under perioden med information från simuleringen: 
 MedCap köp den 7 feburari och sälj den 13 februari +7.8%.
 Nolato B köp 2 januari, sälj 12 januari, köp 26 januari, sälj 30 januari. +1.9%.
