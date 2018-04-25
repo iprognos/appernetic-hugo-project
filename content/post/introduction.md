@@ -1,10 +1,10 @@
 +++
 date = "2016-04-21T02:50:28+02:00"
-draft = false
+draft = true
 title = "Introduction"
 
 +++
-Hugo is written in [Go][] with support for multiple platforms.
+Hugo is written in [Go][] with support for multiple platforms.
 
 The latest release can be found at [Hugo Releases](https://github.com/spf13/hugo/releases).
 We currently provide pre-built binaries for
