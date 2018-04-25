@@ -51,11 +51,12 @@ The Heterogeneous Dynamics of Economic Complexity:
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117174
 
 ## Djupinlärning av tekniska indikatorer
-Om man använder sig av maskininlärning och låter programmet själv komma fram till de värden som bör användas för de olika tekniska indikatorerna och bedöma om aktien kommer att gå upp eller ned under en viss tidsperiod är det möjligt att komma fram till riktigt bra resultat.
+Genom att använda det senaste inom maskininlärning, djupinlärning och kombinera det med teknisk analys och låter programmet själv komma fram till de värden som bör användas för de tekniska indikatorerna och bedöma om aktien kommer att gå upp eller ned under en viss tidsperiod kan jag se att det är möjligt att komma fram till bra resultat.
 Jag har använt en målindikator som summerar den övergripande tendensen över 10 dagar med en marginal för transaktionskostnader på 2.5%. 
-I och med att indikatorn summerar för 10 dagar framåt så har man ingen information för de 10 senaste dagarna. Men om man låter en algoritm som använder sig av ai-djupinlärning, lära sig målindikatorn och använda den för de 10 senaste dagarna kan man få en ganska bra träffsäkerhet. Förutom aktiens kurs använder jag flera tekniska indikatorer som algoritmen använder sig av för att lära sig målindikatorn. I diagrammet visas tre krurvor. Den översta är kursen för Nibe B under tre månader. Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2. 
+I och med att indikatorn summerar för 10 dagar framåt så har man ingen information för de 10 senaste dagarna. Men om man låter en algoritm som använder sig av djupinlärning, lära sig målindikatorn och använda den för de 10 senaste dagarna kan man få en ganska bra träffsäkerhet. Förutom aktiens kurs använder jag flera tekniska indikatorer som algoritmen använder sig av för att lära sig målindikatorn. I diagrammet visas tre krurvor. Den översta är kursen för Nibe B under tre månader. Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2. 
 0 när kursen är på sin lägsta nivå och 1 när den är på sin högsta nivå under en 10 dagarsperiod. 
 Den nedersta kurvan visar hur ai-djupinlärningen har lärt sig målindikatorn för Nibe B under hela perioden. 
+
 
 Jag har låtit algoritmen ta fram modeller för samtliga aktier på Stockholmsbörsen och presenterar dom i en tabell där förutsägelsen av algoritmen presenteras som en sannolikhet för uppgång i %. 
 Om man nu kombinerar det med en momentumstrategi där man rangordnar aktierna efter ett genomsnitt på 1, 3 och 6 månaders förändringshastighet av priset så har man en bra strategi att följa. 
