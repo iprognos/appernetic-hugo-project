@@ -56,7 +56,7 @@ Jag har använt en målindikator som summerar den övergripande tendensen över 
 I och med att indikatorn summerar för 10 dagar framåt så har man ingen information för de 10 senaste dagarna. Men om man låter en algoritm som använder sig av djupinlärning, lära sig målindikatorn och använda den för de 10 senaste dagarna kan man få en ganska bra träffsäkerhet. Förutom aktiens kurs använder jag flera tekniska indikatorer som algoritmen använder sig av för att lära sig målindikatorn. I diagrammet visas tre krurvor. Den översta är kursen för Nibe B under tre månader. Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2. 
 0 när kursen är på sin lägsta nivå och 1 när den är på sin högsta nivå under en 10 dagarsperiod. 
 Den nedersta kurvan visar hur ai-djupinlärningen har lärt sig målindikatorn för Nibe B under hela perioden. 
-
+![enter image description here][3]
 
 Jag har låtit algoritmen ta fram modeller för samtliga aktier på Stockholmsbörsen och presenterar dom i en tabell där förutsägelsen av algoritmen presenteras som en sannolikhet för uppgång i %. 
 Om man nu kombinerar det med en momentumstrategi där man rangordnar aktierna efter ett genomsnitt på 1, 3 och 6 månaders förändringshastighet av priset så har man en bra strategi att följa. 
@@ -92,3 +92,4 @@ VITR Vitrolife
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
   [2]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650131/analytics-colored-pencils-coloured-pencils-185576-2_vjltb3.jpg
+  [3]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650334/image10_fuakuj.jpg
