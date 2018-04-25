@@ -78,6 +78,7 @@ Eolus Vind B, -2840
 Hexatronic Group +2917
 MedCap, 0
 Nolato B +26051
+
 En uppgång med 26128  från 170589 till 196717.
 En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
 Jag gjorde egna köp på Avanza under perioden med information från simuleringen: 
