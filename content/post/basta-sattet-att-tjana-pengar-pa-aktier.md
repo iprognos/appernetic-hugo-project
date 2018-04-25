@@ -86,10 +86,12 @@ MedCap köp den 7 feburari och sälj den 13 februari +7.8%.
 Nolato B köp 2 januari, sälj 12 januari, köp 26 januari, sälj 30 januari. +1.9%.
 Courtage är medräknade. Totalt +4.85%
 ![enter image description here][5]
+![enter image description here][6]
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
   [2]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650131/analytics-colored-pencils-coloured-pencils-185576-2_vjltb3.jpg
   [3]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650334/image10_fuakuj.jpg
   [4]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650346/indikatornibe_au4y88.jpg
-  [5]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650320/image4_r9jyra.jpg
+  [5]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650313/image3_ljgf1f.jpg
+  [6]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650320/image4_r9jyra.jpg
