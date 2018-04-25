@@ -59,35 +59,14 @@ Den nedersta kurvan visar hur ai-djupinlärningen har lärt sig målindikatorn f
 ![enter image description here][3]
 
 Jag har låtit algoritmen ta fram modeller för samtliga aktier på Stockholmsbörsen och presenterar dom i en tabell där förutsägelsen av algoritmen presenteras som en sannolikhet för uppgång i %. 
-Om man nu kombinerar det med en momentumstrategi där man rangordnar aktierna efter ett genomsnitt på 1, 3 och 6 månaders förändringshastighet av priset så har man en bra strategi att följa. 
-Vi väljer  de 5 aktier som hade bästa rankningen i början på året och ser hur de har utvecklats fram till 2 mars.
-Med en simulerad investering på 100000SEK i varje aktie får vi följande avkastning
-Sensys Gatso Group,  0
-Eolus Vind B, -2840
-Hexatronic Group +2917
-MedCap, 0
-Nolato B +26052
-En utveckling på +5.2% jämfört med OMX benchmarkindex som hamnar på -2.24%.
-Jag gjorde egna köp på Avanza under perioden med information från simuleringen: 
-MedCap köp den 7 feburari och sälj den 13 februari +7.8%.
-Nolato B köp 2 januari, sälj 12 januari, köp 26 januari, sälj 30 januari. +1.9%.
-Courtage är medräknade. Totalt +4.85%.
+Om man nu kombinerar det med en momentumstrategi där man rangordnar aktierna efter ett genomsnitt på 1, 3 och 6 månaders förändringshastighet av priset så har man en bra strategi att följa.
+Flera artiklar och undersökningar visar på att momentumstrategier fungerar:
+Financial Times, The hard facts about momentum investing 2014:
+https://www.ft.com/content/58852d80-d910-11e3-837f-00144feabdc0
+Börslabbet: https://borslabbet.se/borslabbets-strategier/
+Lunds universitet Profitability of momentum strategies on the nordic stock market 2006: http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1348919&fileOId=2434583
+Lappeenranta University of Technology, Performance of value and momentum strategies in the Swedish stock market 2016: https://www.doria.fi/bitstream/handle/10024/120274/VALMIS.pdf?sequence=2&isAllowed=y
 
-
-
-
-
-
-CTM  Catena Media
-HTRO	Hexatronic
-TROAX Troax Group
-BIOT  Biotage
-VITR Vitrolife
-
-232641
-257042
-24401
-4.88%
 
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
