@@ -35,7 +35,7 @@ Eugen Fama har visat genom empirisk forskning hur marknaden beter sig i verkligh
 ## Ekonomipristagare sågar svenskarnas fondsparande
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Xzkpkr7jA3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Xzkpkr7jA3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 Intervju med Eugene Fama
 
 ## Den mänskliga faktorn
@@ -58,7 +58,7 @@ Artikel om komplexitet och kaos och implementering av forskning inom kaosteori p
 Kaos i finansmarkanden: https://www.r-bloggers.com/chaos-in-the-financial-markets/  
 The Heterogeneous Dynamics of Economic Complexity:
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117174  
-## Djupinlärning av tekniska indikatorer
+## Djupinlärning med hjälp av tekniska indikatorer
 Genom att använda det senaste inom maskininlärning, djupinlärning och kombinera det med teknisk analys och låta
 programmet själv komma fram till de värden som bör användas för de tekniska indikatorerna och bedöma om aktien kommer att gå upp eller ned under en viss tidsperiod kan jag se att det är möjligt att komma fram till bra resultat.  
 Jag har använt en målindikator som summerar den övergripande tendensen över 10 dagar med en marginal för transaktionskostnader på 2.5%.  
