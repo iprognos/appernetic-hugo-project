@@ -50,7 +50,7 @@ https://www.r-bloggers.com/chaos-in-the-financial-markets/
 The Heterogeneous Dynamics of Economic Complexity:
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117174
 
-## Teknisk analys med hjälp av djupinlärning
+## Djupinlärning av tekniska indikatorer
 Om man använder sig av maskininlärning och låter programmet själv komma fram till de värden som bör användas för de olika tekniska indikatorerna och bedöma om aktien kommer att gå upp eller ned under en viss tidsperiod är det möjligt att komma fram till riktigt bra resultat.
 Jag har använt en målindikator som summerar den övergripande tendensen över 10 dagar med en marginal för transaktionskostnader på 2.5%. 
 I och med att indikatorn summerar för 10 dagar framåt så har man ingen information för de 10 senaste dagarna. Men om man låter en algoritm som använder sig av ai-djupinlärning, lära sig målindikatorn och använda den för de 10 senaste dagarna kan man få en ganska bra träffsäkerhet. Förutom aktiens kurs använder jag flera tekniska indikatorer som algoritmen använder sig av för att lära sig målindikatorn. I diagrammet visas tre krurvor. Den översta är kursen för Nibe B under tre månader. Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2. 
