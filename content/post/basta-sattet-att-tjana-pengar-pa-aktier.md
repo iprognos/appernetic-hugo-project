@@ -70,16 +70,13 @@ Lappeenranta University of Technology, Performance of value and momentum strateg
 Vi väljer  de 5 aktier som hade bästa rankningen i början på året och ser hur de har utvecklats fram till 2 mars.
 Med en simulerad investering på 100000SEK i varje aktie, köps och säljs den baserat på sannolikheten för att uppgång är 100%, säljs om sannolikhet för uppgång är 0%. 
 Den simulerade köpkursen är öppningskursen dagen efter prognosen.  
-Då får vi följande avkastning
-170589
-196717
-26128
-
+Då får vi följande avkastning:
 Sensys Gatso Group,  0
 Eolus Vind B, -2840
 Hexatronic Group +2917
 MedCap, 0
 Nolato B +26051
+En uppgång med 26128  från 170589 till 196717.
 En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
 Jag gjorde egna köp på Avanza under perioden med information från simuleringen: 
 MedCap köp den 7 feburari och sälj den 13 februari +7.8%.
