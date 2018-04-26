@@ -12,7 +12,13 @@ title: "Bästa sättet att tjäna pengar på aktier"
 
 
 ![enter image description here][1]
-# Bästa sättet att tjäna pengar på aktier
+# 5 sätt att tjäna pengar på aktier
+I den här artikeln tänker jag beskriva hur man med 5 sätt kan tjäna pengar på aktier:
+*  Riskspridning
+*  Momentumstrategi
+*  Vinst vs Risk strategi
+*  Teknisk analys med djupinlärning
+
 Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen.  
  Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
 ## Hur värderar jag risken?
