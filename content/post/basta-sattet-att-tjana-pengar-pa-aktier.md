@@ -110,7 +110,8 @@ OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.
 Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitiet och hög avkastning fram till 2 Januari, så kan vi välja de aktier högst upp till vänster i diagrammet.  
 Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B.  
 Avkastningen blir då 32810 fram till den 2 Mars.   
-En uppgång från 184683 till 217493. Här blir vinsten 17.76%.  
+En uppgång från 184683 till 217493.  
+Här blir vinsten 17.76%.  
 
 ![enter image description here][8]    
 ##  Vad för verktyg finns det?
