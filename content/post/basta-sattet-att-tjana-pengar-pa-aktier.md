@@ -73,6 +73,7 @@ Den översta är kursen för Nibe B under tre månader.
 Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2.  
 0 när kursen är på sin lägsta nivå och 1 när den är på sin högsta nivå under en 10 dagarsperiod.  
 Den nedersta kurvan visar hur ai-djupinlärningen har lärt sig målindikatorn för Nibe B under hela perioden.  
+
 ![enter image description here][3]  
 
 Jag har låtit algoritmen ta fram modeller för samtliga aktier på Stockholmsbörsen och presenterar dom i en tabell där förutsägelsen av algoritmen presenteras som en sannolikhet för uppgång i %.  
@@ -83,6 +84,7 @@ https://www.ft.com/content/58852d80-d910-11e3-837f-00144feabdc0
 Börslabbet: https://borslabbet.se/borslabbets-strategier/  
 Lunds universitet Profitability of momentum strategies on the nordic stock market 2006: http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1348919&fileOId=2434583  
 Lappeenranta University of Technology, Performance of value and momentum strategies in the Swedish stock market 2016: https://www.doria.fi/bitstream/handle/10024/120274/VALMIS.pdf?sequence=2&isAllowed=y  
+
 ![enter image description here][4]  
 Vi väljer  de 5 aktier som hade bästa rankningen i början på året och ser hur de har utvecklats fram till 2 mars.  
 Med en simulerad investering på 100000SEK i varje aktie, köps och säljs den baserat på sannolikheten för att uppgång är 100%, säljs om sannolikhet för uppgång är 0%.  
