@@ -98,7 +98,7 @@ En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
 Jag gjorde egna köp på Avanza under perioden med information från simuleringen:  
 MedCap köp den 7 feburari och sälj den 13 februari +7.8%.  
 Nolato B köp 2 januari, sälj 12 januari, köp 26 januari och sälj 30 januari. +1.9%.  
-Courtage är medräknade. Totalt +4.85%  
+Courtage är medräknade. Totalt vinst +4.85%  
 ![enter image description here][5]  
 ![enter image description here][6]  
 OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.  
