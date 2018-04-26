@@ -106,7 +106,9 @@ Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B.
 Avkastningen blir då 32810. En uppgång från 184683 till 217493. Här blir vinsten 17.76%.  
 
 ![enter image description here][8]    
+##  Vad för verktyg finns det?
 I den här artikeln har jag beskrivit hur man kan använda djupinlärning med olika strategier för att få bra avkastning på Stockholmsbörsen i nästa artikel kommer jag att beskriva mer om vad för verktyg man kan använda.
+Skriv gärna en kommentar eller frågor om artikeln.
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
   [2]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650131/analytics-colored-pencils-coloured-pencils-185576-2_vjltb3.jpg
