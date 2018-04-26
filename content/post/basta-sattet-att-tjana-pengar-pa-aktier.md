@@ -68,7 +68,7 @@ Jag har använt en målindikator som summerar den övergripande tendensen över 
 I och med att indikatorn summerar för 10 dagar framåt så har man ingen information för de 10 senaste dagarna.  
 Men om man låter en algoritm som använder sig av djupinlärning, lära sig målindikatorn och använda den för de 10 senaste dagarna kan man få en ganska bra träffsäkerhet.  
 Förutom aktiens kurs använder jag flera tekniska indikatorer som algoritmen använder sig av för att lära sig målindikatorn.  
-I diagrammet visas tre krurvor.  
+I diagrammet nedan visas tre krurvor.  
 Den översta är kursen för Nibe B under tre månader.  
 Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2.  
 0 när kursen är på sin lägsta nivå och 1 när den är på sin högsta nivå under en 10 dagarsperiod.  
