@@ -22,7 +22,8 @@ Nobelpristagaren William Sharpe upptäckte ett samband  mellan avkastning och ri
 Sharpe-kvoten = (Avkastningen – Riskfria räntan) / volatiliteten
 
 ## Vad är en bra riskkvot?
-Formeln ger att en hög avkastning och låg svängning i portföljen ger en större Sharpe-kvot. Så ju högre Sharpe-kvot desto bättre.  
+Formeln ger att en hög avkastning och låg svängning i portföljen ger en större Sharpe-kvot.  
+Så ju högre Sharpe-kvot desto bättre.  
 På kort sikt kan värdet svänga kraftigt men över tiden brukar de hamna på 0.2 - 0.6. 
 
 Många fondförvaltare redovisar sharpe-kvoten såsom Morningstar, Avanza och Nordnet.
@@ -31,7 +32,8 @@ Många fondförvaltare redovisar sharpe-kvoten såsom Morningstar, Avanza och No
 Många menar på att det är ren slump som avgör om man lyckas investera i rätt aktier oavsett om man är en välutbildad fondförvaltare med resurser som superdatorer och stora analysavdelningar.  
 Undersökningar har visat att ett endast 0.6% av stora fonder konsekvent slår indexet. 
 
-Eugen Fama har visat genom empirisk forskning hur marknaden beter sig i verkligheten och den stödjer den effektiva marknadshypotesen (EMH) vilket innebär att det är mycket svårt att vinna över marknaden genom att använda information som marknaden redan känner till. Framförallt över längre tidsperioder som 5 - 10 år.
+Eugen Fama har visat genom empirisk forskning hur marknaden beter sig i verkligheten och den stödjer den effektiva marknadshypotesen (EMH) vilket innebär att det är mycket svårt att vinna över marknaden genom att använda information som marknaden redan känner till.  
+Framförallt över längre tidsperioder som 5 - 10 år.
 
 ## Ekonomipristagare sågar svenskarnas fondsparande  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Xzkpkr7jA3o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
@@ -45,12 +47,14 @@ Ett av de vanligaste misstagen är att ha en alldeles för liten riskspridning i
 ## Är det en dålig idé att investera i aktier?  
 Är det med andra ord meningslöst och en för stor risk att aktivt handla med aktier själv?  
 Bör man överlåta det till stora fonder med tid och  rätt resurser?  
-Det kan man tro. Jag har själv undersökt om det är möjligt att kunna tjäna pengar på aktier med den begränsade tid och resurser jag har.  
+Det kan man tro.  
+Jag har själv undersökt om det är möjligt att kunna tjäna pengar på aktier med den begränsade tid och resurser jag har.  
 Min hypotes är att om man kan låta datorerna sköta aktieanalysen genom att samla in all information åt en och bestämma köp och säljlägen med hjälp av teknisk analys utan inblandning av den mänskliga faktorn så kan man bli minst lika bra som de största fonderna. 
 
 ## Teknisk analys med hjälp av datorn  
 Teknisk analys ,TA som jag använder för att bestämma köp och säljlägen skulle man kunna förklara som ett fönster vi kan titta in i för att se psykologin bakom marknadens handel och rörelser.  
-Flertalet påstår att priset på en aktie är slumpvist satt. Det är inte helt sant.  
+Flertalet påstår att priset på en aktie är slumpvist satt.  
+Det är inte helt sant.  
 Flera forskningsrapporter menar att marknaden inte är helt slumpmässig men att slumpmässighet och kaos förekommer periodvis (flockbeteende och spekulation)  och att marknaden kan jämföras med ett vädersystem.  
 Artikel om komplexitet och kaos och implementering av forskning inom kaosteori på finansmarknaden:  
 
@@ -64,7 +68,8 @@ Jag har använt en målindikator som summerar den övergripande tendensen över 
 I och med att indikatorn summerar för 10 dagar framåt så har man ingen information för de 10 senaste dagarna.  
 Men om man låter en algoritm som använder sig av djupinlärning, lära sig målindikatorn och använda den för de 10 senaste dagarna kan man få en ganska bra träffsäkerhet.  
 Förutom aktiens kurs använder jag flera tekniska indikatorer som algoritmen använder sig av för att lära sig målindikatorn.  
-I diagrammet visas tre krurvor. Den översta är kursen för Nibe B under tre månader.  
+I diagrammet visas tre krurvor.  
+Den översta är kursen för Nibe B under tre månader.  
 Kurvan under visar målindikatorn som pendlar mellan 0, 1 och 2.  
 0 när kursen är på sin lägsta nivå och 1 när den är på sin högsta nivå under en 10 dagarsperiod.  
 Den nedersta kurvan visar hur ai-djupinlärningen har lärt sig målindikatorn för Nibe B under hela perioden.  
@@ -103,7 +108,8 @@ OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.
 
 Om vi istället för momentumrankning väljer ut fem aktier med låg volatilitiet och hög avkastning fram till 2 Januari, så kan vi välja de aktier högst upp till vänster i diagrammet.  
 Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B.  
-Avkastningen blir då 32810. En uppgång från 184683 till 217493. Här blir vinsten 17.76%.  
+Avkastningen blir då 32810 fram till den 2 Mars.   
+En uppgång från 184683 till 217493. Här blir vinsten 17.76%.  
 
 ![enter image description here][8]    
 ##  Vad för verktyg finns det?
