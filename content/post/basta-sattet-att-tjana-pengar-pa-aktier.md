@@ -101,7 +101,6 @@ Nolato B köp 2 januari, sälj 12 januari, köp 26 januari och sälj 30 januari.
 Courtage är medräknade. Totalt vinst +4.85%  
 ![enter image description here][5]  
 Simulering, köp av Sensys Gatso Group,  Eolus Vind B, Hexatronic Group, MedCap och Nolato B.  
-
 ![enter image description here][6]  
 OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.  
 
