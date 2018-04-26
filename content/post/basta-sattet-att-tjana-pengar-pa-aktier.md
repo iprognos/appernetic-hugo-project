@@ -98,7 +98,8 @@ En utveckling på +15.3% jämfört med OMX benchmarkindex som hamnar på -2.24%.
 Jag gjorde egna köp på Avanza under perioden med information från simuleringen:  
 MedCap köp den 7 feburari och sälj den 13 februari +7.8%.  
 Nolato B köp 2 januari, sälj 12 januari, köp 26 januari och sälj 30 januari. +1.9%.  
-Courtage är medräknade. Totalt vinst +4.85%  
+Courtage är medräknade.  
+Totalt vinst +4.85%  
 ![enter image description here][5]  
 Simulering, köp av Sensys Gatso Group,  Eolus Vind B, Hexatronic Group, MedCap och Nolato B.  
 
