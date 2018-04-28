@@ -6,7 +6,7 @@ description: "Bästa sättet att tjäna pengar på aktier. Aktier är en överl�
 keywords: ["Aktier", "Aktieplacering"]
 topics: ["Aktieplacering"]
 tags: ["Aktier", "Aktieplacering"]
-draft: false
+draft: true
 title: "Bästa sättet att tjäna pengar på aktier"
 ---
 
