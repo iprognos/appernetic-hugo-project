@@ -1,7 +1,7 @@
 ---
 type: "post"
-draft: true
-author: "author"
+author: "Ulf Sv"
+date: "2018-04-25T12:29:19+01:00"
 description: "description"
 keywords: ["key", "words"]
 topics: ["topic 1"]
