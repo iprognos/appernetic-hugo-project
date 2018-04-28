@@ -86,7 +86,7 @@ Lappeenranta University of Technology, Performance of value and momentum strateg
 
 ![enter image description here][4]  
 Vi väljer  de 5 aktier som hade bästa rankningen i början på året och ser hur de har utvecklats fram till 2 mars.  
-Med en simulerad investering på 100000SEK i varje aktie, köps och säljs den baserat på sannolikheten för att uppgång är 100%, säljs om sannolikhet för uppgång är 0%.  
+Med en simulerad investering på 100000SEK i varje aktie, köps och säljs den baserat på sannolikheten för att uppgång är 100% och säljs om sannolikhet för uppgång är 0%.  
 Den simulerade köpkursen är öppningskursen dagen efter prognosen.  
 Då får vi följande avkastning:  
 Sensys Gatso Group,  0  
