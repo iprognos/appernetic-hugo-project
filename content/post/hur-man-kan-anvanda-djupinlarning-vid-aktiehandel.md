@@ -6,6 +6,7 @@ description: "Bästa sättet att tjäna pengar på aktier. Aktier är en överl�
 keywords: ["Aktier", "Aktieplacering"]
 topics: ["Aktieplacering"]
 draft: false
+title: "Hur man kan använda djupinlärning vid aktiehandel"
 ---
 
 
