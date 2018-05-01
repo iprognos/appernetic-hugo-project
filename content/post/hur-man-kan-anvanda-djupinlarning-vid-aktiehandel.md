@@ -105,7 +105,7 @@ Totalt vinst +4.85%
 Simulering, köp av Sensys Gatso Group,  Eolus Vind B, Hexatronic Group, MedCap och Nolato B.  
  ![enter image description here][6]  
 
-Om vi använder oss av modellerna som användes för det första resultatet vilka skapades i december 2017 och uppdaterar modellerna med historik fram till 2 januari 2018 får vi högre simulerad avkastning, 52.4%.
+Om vi använder oss av modellerna som användes för det första resultatet vilka skapades i december 2017 och uppdaterar modellerna med historik fram till 2 januari 2018 får vi högre simulerad avkastning på 52.4%.
 Modellerna har optimerats mera och en gräns har sats för precision på 97% och felprocent på 0.05%.  
  
 
