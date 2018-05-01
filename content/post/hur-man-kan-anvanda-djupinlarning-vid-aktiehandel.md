@@ -103,12 +103,13 @@ Courtage är medräknade.
 Totalt vinst +4.85%  
 ![enter image description here][5]  
 Simulering, köp av Sensys Gatso Group,  Eolus Vind B, Hexatronic Group, MedCap och Nolato B.  
-
-![enter image description here][6]  
+ ![enter image description here][6]  
+Om vi använder oss av modellerna som användes för det första resultatet ovan vilka skapades i december 2017 och uppdaterar modellerna med historik fram till 2 januari 2018 får vi högre avkastning, 52.4%.
+![enter image description here][7]  
 OMX Stockholm Benchmarkindex 2 Jaunari 2018 till 2 Mars 2018.  
 
 ## Lågriskstrategi  
-![enter image description here][7]  
+![enter image description here][8]  
 
 Om vi istället för momentumrankning väljer ut fem aktier som hade låg volatilitiet och hög avkastning fram till 2 Januari, så kan vi välja de aktier högst upp till vänster i diagrammet.  
 Aktierna är Balder B, Biotage, Nolato B, Troax och Victoria Park B.  
@@ -116,16 +117,18 @@ Avkastningen blir då 32810 fram till den 2 Mars.
 En uppgång från 184683 till 217493.  
 Här blir vinsten 17.76%.  
 
-![enter image description here][8]    
+![enter image description here][9]    
 ##  Vad för verktyg finns det?
 I den här artikeln har jag beskrivit hur man kan använda djupinlärning med olika strategier för att få bra avkastning på Stockholmsbörsen i nästa artikel kommer jag att beskriva mer om vad för verktyg man kan använda.  
 Skriv gärna en kommentar eller frågor om artikeln.
+
 
   [1]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650158/board-marketing-strategy-6229-3_q1sbz2.jpg
   [2]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650131/analytics-colored-pencils-coloured-pencils-185576-2_vjltb3.jpg
   [3]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650334/image10_fuakuj.jpg
   [4]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650346/indikatornibe_au4y88.jpg
   [5]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650313/image3_ljgf1f.jpg
-  [6]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650327/image7_bq0j19.jpg
-  [7]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650301/image2_xonw7v.jpg
-  [8]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650320/image4_r9jyra.jpg
+  [6]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1525209175/imageny_pkpwcl.jpg
+  [7]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650327/image7_bq0j19.jpg
+  [8]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650301/image2_xonw7v.jpg
+  [9]: http://res.cloudinary.com/dtnahfj7l/image/upload/v1524650320/image4_r9jyra.jpg
