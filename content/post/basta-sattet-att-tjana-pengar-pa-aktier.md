@@ -12,7 +12,7 @@ title: "Bästa sättet att tjäna pengar på aktier"
 
 
 ![enter image description here][1]
-# Hur man kan använda djupinlärning vid aktiehandel
+# Hur man kan använda djupinlärning vid aktiehandelå
 I den här artikeln tänker jag beskriva hur man med djupinlärning kan analysera komplex information och i kombination med olika strategier tjäna pengar på aktier:  
 Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen.  
  Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
