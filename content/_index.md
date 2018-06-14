@@ -67,11 +67,11 @@ Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
 </p><p class="large">
 iPrognos drivs av 3DQuu Production. 3DQuu Production ansvarar därmed enligt gällande dataskyddslagstiftning för behandlingen av dina personuppgifter.
 </p><p class="large">
-<strong>Medlemsuppgifterv</strong> 
+<strong>Medlemsuppgifter</strong> 
 </p><p class="large">
 Personuppgifter (som t.ex. namn, e-post  och telefonnummer) som du lämnar som kund hos iPrognos sparas så länge du är aktiv kund och därefter i två (2) år efter din senast registrerade aktivitet hos iPrognos. 
 </p><p class="large">
-### Ändamål och laglig grund för behandling
+<strong>Ändamål och laglig grund för behandling</strong> 
 Ändamålet med behandlingen av kunduppgifter är att 3DQuu Production ska kunna uppfylla kundvillkoren samt tillhandahålla och administrera kundregistret och därmed ge dig tillgång till iPrognos.
 </p><p class="large">
 Uppgifterna kan komma att behandlas bl.a för att;
@@ -80,7 +80,7 @@ Informera om och utveckla iPrognos:s verksamhet och för att skicka ut nyhetsbre
 </p><p class="large">
 För att 3DQuu Production ska kunna behandla dina personuppgifter måste det finnas en laglig grund för behandlingen. Laglig grund för behandling är att kunna uppfylla avtalet med dig som användare av tjänsten och behandling av personuppgifter för utskick av nyhetsbrev. 
 </p><p class="large">
-### Mottagare av personuppgifter
+<strong>Mottagare av personuppgifter<strong>
 Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverantörer 3DQuu Production anlitat för att kunna uppfylla åtaganden gentemot dig.
 </p><p class="large">
 3DQuu Production samarbetar till exempel med följande samarbetspartners eller leverantörer;
