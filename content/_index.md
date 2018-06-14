@@ -82,6 +82,7 @@ Informera om och utveckla iPrognos:s verksamhet och för att skicka ut nyhetsbre
 För att 3DQuu Production ska kunna behandla dina personuppgifter måste det finnas en laglig grund för behandlingen. Laglig grund för behandling är att kunna uppfylla avtalet med dig som användare av tjänsten och behandling av personuppgifter för utskick av nyhetsbrev. 
 </p><p class="large">
 <strong>Mottagare av personuppgifter</strong>
+</p><p class="large">
 Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverantörer 3DQuu Production anlitat för att kunna uppfylla åtaganden gentemot dig.
 </p><p class="large">
 3DQuu Production samarbetar till exempel med följande samarbetspartners eller leverantörer;
@@ -94,11 +95,13 @@ Vissa samarbetspartners eller leverantörer kan ha del av sin verksamhet utanfö
  </p><p class="large">
 
 <strong>Utlämnande</strong>
+</p><p class="large">
 3DQuu Production kan komma att lämna ut deltagarlistor från evenemang till arrangören av evenemanget.
 </p><p class="large">
 3DQuu Production kan också komma att lämna ut personuppgifter för det fall det föreskrivs i lag eller förordning, med anledning av en pågående juridisk process eller efter en tvingande begäran av myndighet.
  </p><p class="large">
 <strong>Dina rättigheter</strong>
+</p><p class="large">
 Du har rätt att kostnadsfritt begära registerutdrag som innehåller de personuppgifter 3DQuu Production behandlar om dig.
 </p><p class="large">
 Du har rätt att begära rättelse av uppgifter som är fel. Du har också rätt att begära att dina uppgifter raderas eller att användningen begränsas, men då måste det finnas stöd för detta i relevant dataskyddslagstiftning.
@@ -110,7 +113,7 @@ Du har även rätt att begära ut personuppgifter som du har tillhandahållit i 
 Om du vill begära rättelse, radering, begränsning av behandling, tillgång till personuppgifter eller använda rätten till utdrag av de personuppgifter du själv lämnat, gör du det hos 3DQuu Production dataskyddsombud, på support@iprognos.com.
 </p><p class="large">
 Vill du inte längre ta emot iPrognos:s nyhetsbrev kan du välja att avsluta tjänsten genom att använda länken i slutet av e-postmeddelanden eller nyhetsbrev.
-Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på support@iprognos.com.</p>
+Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på epost:support@iprognos.com.</p>
 </p>
         </div>
       </div>
