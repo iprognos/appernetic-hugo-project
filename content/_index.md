@@ -68,47 +68,48 @@ Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
 iPrognos drivs av 3DQuu Production. 3DQuu Production ansvarar därmed enligt gällande dataskyddslagstiftning för behandlingen av dina personuppgifter.
 </p><p class="large">
 <strong>Medlemsuppgifterv</strong> 
+</p><p class="large">
 Personuppgifter (som t.ex. namn, e-post  och telefonnummer) som du lämnar som kund hos iPrognos sparas så länge du är aktiv kund och därefter i två (2) år efter din senast registrerade aktivitet hos iPrognos. 
-
+</p><p class="large">
 ### Ändamål och laglig grund för behandling
 Ändamålet med behandlingen av kunduppgifter är att 3DQuu Production ska kunna uppfylla kundvillkoren samt tillhandahålla och administrera kundregistret och därmed ge dig tillgång till iPrognos.
-
+</p><p class="large">
 Uppgifterna kan komma att behandlas bl.a för att;
 identifiera dig som medlem vid inlogging till iPrognos tjänst.
 Informera om och utveckla iPrognos:s verksamhet och för att skicka ut nyhetsbrev som kan innehålla information och erbjudanden om iPrognos tjänster, hantera kundundersökningar m.m. 
-
+</p><p class="large">
 För att 3DQuu Production ska kunna behandla dina personuppgifter måste det finnas en laglig grund för behandlingen. Laglig grund för behandling är att kunna uppfylla avtalet med dig som användare av tjänsten och behandling av personuppgifter för utskick av nyhetsbrev. 
-
+</p><p class="large">
 ### Mottagare av personuppgifter
 Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverantörer 3DQuu Production anlitat för att kunna uppfylla åtaganden gentemot dig.
-
+</p><p class="large">
 3DQuu Production samarbetar till exempel med följande samarbetspartners eller leverantörer;
-
+</p><p class="large">
 - Tjänsteleverantör för hantering av in och utloggning.
 - Undersökningsföretag för kundundersökningar.
 - Tjänsteleverantör för utskick av nyhetsbrev.
-
+</p><p class="large">
 Vissa samarbetspartners eller leverantörer kan ha del av sin verksamhet utanför Sverige eller EU/EES. Om 3DQuu Production  för över uppgifter till sådana samarbetspartners eller leverantörer säkerställer 3DQuu Production bland annat genom avtal att de behandlar och skyddar personuppgifterna på sätt som gällande dataskyddslagstiftning kräver.
- 
+ </p><p class="large">
 
 ### Utlämnande
 3DQuu Production kan komma att lämna ut deltagarlistor från evenemang till arrangören av evenemanget.
-
+</p><p class="large">
 
 3DQuu Production kan också komma att lämna ut personuppgifter för det fall det föreskrivs i lag eller förordning, med anledning av en pågående juridisk process eller efter en tvingande begäran av myndighet.
- 
+ </p><p class="large">
 
 ### Dina rättigheter
 Du har rätt att kostnadsfritt begära registerutdrag som innehåller de personuppgifter 3DQuu Production behandlar om dig.
-
+</p><p class="large">
 Du har rätt att begära rättelse av uppgifter som är fel. Du har också rätt att begära att dina uppgifter raderas eller att användningen begränsas, men då måste det finnas stöd för detta i relevant dataskyddslagstiftning.
-
+</p><p class="large">
 Du har även rätt att invända mot behandling av personuppgifter om det finns förutsättning för det enligt lag. Om dina personuppgifter enbart behandlas på grund av samtycke, har du alltid rätt att ta tillbaka ett sådant samtycke.
-
+</p><p class="large">
 Du har även rätt att begära ut personuppgifter som du har tillhandahållit i ett strukturerat, allmänt använt och maskinläsbart format, men då måste det finnas stöd för detta i relevant dataskyddslagstiftning.
-
+</p><p class="large">
 Om du vill begära rättelse, radering, begränsning av behandling, tillgång till personuppgifter eller använda rätten till utdrag av de personuppgifter du själv lämnat, gör du det hos 3DQuu Production dataskyddsombud, på support@iprognos.com.
-
+</p><p class="large">
 Vill du inte längre ta emot iPrognos:s nyhetsbrev kan du välja att avsluta tjänsten genom att använda länken i slutet av e-postmeddelanden eller nyhetsbrev.
 Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på support@iprognos.com.</p>
 </p>
