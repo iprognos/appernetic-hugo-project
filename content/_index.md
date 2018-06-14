@@ -113,7 +113,30 @@ Du har även rätt att begära ut personuppgifter som du har tillhandahållit i 
 Om du vill begära rättelse, radering, begränsning av behandling, tillgång till personuppgifter eller använda rätten till utdrag av de personuppgifter du själv lämnat, gör du det hos 3DQuu Production dataskyddsombud, på support@iprognos.com.
 </p><p class="large">
 Vill du inte längre ta emot iPrognos:s nyhetsbrev kan du välja att avsluta tjänsten genom att använda länken i slutet av e-postmeddelanden eller nyhetsbrev.
-Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på epost:support@iprognos.com.</p>
+Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på<script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature coded by Andrew Moulden
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "tVXXn8Z@jX8ne0nt.unf"
+  key = "ieEKV2LDrAH6IzF0sdqOjBlvTYc38MQwNpS5to4xmbUgGkuPRhJayX1WZn7Cf9"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>iPrognos support</a>")
+}
+//-->
+</script><noscript>Sorry, you need Javascript on to email me.</noscript></p>
 </p>
         </div>
       </div>
