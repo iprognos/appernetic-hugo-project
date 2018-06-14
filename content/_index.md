@@ -80,7 +80,7 @@ Informera om och utveckla iPrognos:s verksamhet och för att skicka ut nyhetsbre
 </p><p class="large">
 För att 3DQuu Production ska kunna behandla dina personuppgifter måste det finnas en laglig grund för behandlingen. Laglig grund för behandling är att kunna uppfylla avtalet med dig som användare av tjänsten och behandling av personuppgifter för utskick av nyhetsbrev. 
 </p><p class="large">
-<strong>Mottagare av personuppgifter<{strong>
+<strong>Mottagare av personuppgifter</strong>
 Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverantörer 3DQuu Production anlitat för att kunna uppfylla åtaganden gentemot dig.
 </p><p class="large">
 3DQuu Production samarbetar till exempel med följande samarbetspartners eller leverantörer;
@@ -92,7 +92,7 @@ Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverant
 Vissa samarbetspartners eller leverantörer kan ha del av sin verksamhet utanför Sverige eller EU/EES. Om 3DQuu Production  för över uppgifter till sådana samarbetspartners eller leverantörer säkerställer 3DQuu Production bland annat genom avtal att de behandlar och skyddar personuppgifterna på sätt som gällande dataskyddslagstiftning kräver.
  </p><p class="large">
 
-<strong>Utlämnande<{strong>
+<strong>Utlämnande<strong>
 3DQuu Production kan komma att lämna ut deltagarlistor från evenemang till arrangören av evenemanget.
 </p><p class="large">
 3DQuu Production kan också komma att lämna ut personuppgifter för det fall det föreskrivs i lag eller förordning, med anledning av en pågående juridisk process eller efter en tvingande begäran av myndighet.
