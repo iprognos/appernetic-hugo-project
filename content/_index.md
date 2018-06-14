@@ -137,7 +137,7 @@ document.write("<a href='mailto:"+link+"'>iPrognos support</a>")
 }
 //-->
 </script><noscript>Sorry, you need Javascript on to email me.</noscript></p>
-</p>
+</p><p class="large">
         </div>
       </div>
     </div>
