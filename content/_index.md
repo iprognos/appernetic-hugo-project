@@ -136,7 +136,7 @@ document.write("<a href='mailto:"+link+"'>iPrognos support</a>")
 </script><noscript>Sorry, you need Javascript on to email me.</noscript>.
 </p><p class="large">
 Vill du inte längre ta emot iPrognos:s nyhetsbrev kan du välja att avsluta tjänsten genom att använda länken i slutet av e-postmeddelanden eller nyhetsbrev.
-Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på<script type="text/javascript" language="javascript">
+Har du frågor eller vill lämna synpunkter beträffande iPrognos hantering av dina personuppgifter är du välkommen att kontakta iPrognos dataskyddsombud på <script type="text/javascript" language="javascript">
 <!--
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature coded by Andrew Moulden
