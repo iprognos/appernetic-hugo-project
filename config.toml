@@ -153,7 +153,12 @@ weight = 2
 identifier = "post"
 url = "/post/"
 
-
+[[Languages.en.menu.main]]
+name = "Integritetspolicy"
+pre = ""
+weight = 2
+identifier = "Integritetspolicy"
+url = "/integritetspolicy/"
 
 #[[Languages.en.menu.footer]] # add  links to the bottom right corner.
 #name = "Disclaimer"
