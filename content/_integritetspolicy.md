@@ -10,23 +10,7 @@ keywords = [
 ]
 description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med hjälp av AI-djupinlärning."
 +++
-<header>
-  <section class="video v-center">
-  <div id="bgVideo" class="background" ><video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/Heaven-From-Top.jpg"><source src="/Heaven-From-Top.mp4" type="video/mp4">bgvideo</video></div>
-<div class="hero-unit">
-    <div class="container text-left">
-<h1 class="hero-title-lg dont-break-out">Aktieförutsägelser</h1>
-<h2 class="title text-left dont-break-out">Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med hjälp av AI-djupinlärning.</h2>
-<a class="btn btn-primary btn-lg uppercase page-scroll" href="#services">Börja här</a>
-</div>
-<!-- end card -->
-    </div>
-</div>
-</section>
-</header>
-
- 
-<section id="integritetspolicy" class="bg-light-gray page-section">
+<section id="integritetspolicy" class="bg-light-gray page-section">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
