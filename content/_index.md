@@ -92,12 +92,12 @@ Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverant
 Vissa samarbetspartners eller leverantörer kan ha del av sin verksamhet utanför Sverige eller EU/EES. Om 3DQuu Production  för över uppgifter till sådana samarbetspartners eller leverantörer säkerställer 3DQuu Production bland annat genom avtal att de behandlar och skyddar personuppgifterna på sätt som gällande dataskyddslagstiftning kräver.
  </p><p class="large">
 
-<strong>Utlämnande<strong>
+<strong>Utlämnande</strong>
 3DQuu Production kan komma att lämna ut deltagarlistor från evenemang till arrangören av evenemanget.
 </p><p class="large">
 3DQuu Production kan också komma att lämna ut personuppgifter för det fall det föreskrivs i lag eller förordning, med anledning av en pågående juridisk process eller efter en tvingande begäran av myndighet.
  </p><p class="large">
-<strong>Dina rättigheter<{strong>
+<strong>Dina rättigheter</strong>
 Du har rätt att kostnadsfritt begära registerutdrag som innehåller de personuppgifter 3DQuu Production behandlar om dig.
 </p><p class="large">
 Du har rätt att begära rättelse av uppgifter som är fel. Du har också rätt att begära att dina uppgifter raderas eller att användningen begränsas, men då måste det finnas stöd för detta i relevant dataskyddslagstiftning.
