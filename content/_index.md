@@ -62,7 +62,7 @@ Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
           <h2 class="section-heading">Integritetspolicy</h2>
           <h3 class="section-subheading text-muted"></h3>
           
-## Behandling av personuppgifter
+<strong>Behandling av personuppgifter</strong>## 
 iPrognos är en molnbaserad finanisell internettjänst som erbjuder ai baserade prognoser för aktier och finanisella instrument. 
 
 iPrognos drivs av 3DQuu Production. 3DQuu Production ansvarar därmed enligt gällande dataskyddslagstiftning för behandlingen av dina personuppgifter.
