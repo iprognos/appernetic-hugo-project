@@ -72,6 +72,7 @@ iPrognos drivs av 3DQuu Production. 3DQuu Production ansvarar därmed enligt gä
 Personuppgifter (som t.ex. namn, e-post  och telefonnummer) som du lämnar som kund hos iPrognos sparas så länge du är aktiv kund och därefter i två (2) år efter din senast registrerade aktivitet hos iPrognos. 
 </p><p class="large">
 <strong>Ändamål och laglig grund för behandling</strong> 
+</p><p class="large">
 Ändamålet med behandlingen av kunduppgifter är att 3DQuu Production ska kunna uppfylla kundvillkoren samt tillhandahålla och administrera kundregistret och därmed ge dig tillgång till iPrognos.
 </p><p class="large">
 Uppgifterna kan komma att behandlas bl.a för att;
