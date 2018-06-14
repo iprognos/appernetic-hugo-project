@@ -62,15 +62,15 @@ Höga negativa värden indikerar i sin tur när det är dags att sälja. </p>
           <h2 class="section-heading">Integritetspolicy</h2>
           <h3 class="section-subheading text-muted"></h3>
           
-# Behandling av personuppgifter
+## Behandling av personuppgifter
 iPrognos är en molnbaserad finanisell internettjänst som erbjuder ai baserade prognoser för aktier och finanisella instrument. 
 
 iPrognos drivs av 3DQuu Production. 3DQuu Production ansvarar därmed enligt gällande dataskyddslagstiftning för behandlingen av dina personuppgifter.
 
-## Medlemsuppgifter
+### Medlemsuppgifter
 Personuppgifter (som t.ex. namn, e-post  och telefonnummer) som du lämnar som kund hos iPrognos sparas så länge du är aktiv kund och därefter i två (2) år efter din senast registrerade aktivitet hos iPrognos. 
 
-## Ändamål och laglig grund för behandling
+### Ändamål och laglig grund för behandling
 Ändamålet med behandlingen av kunduppgifter är att 3DQuu Production ska kunna uppfylla kundvillkoren samt tillhandahålla och administrera kundregistret och därmed ge dig tillgång till iPrognos.
 
 Uppgifterna kan komma att behandlas bl.a för att;
@@ -79,7 +79,7 @@ Informera om och utveckla iPrognos:s verksamhet och för att skicka ut nyhetsbre
 
 För att 3DQuu Production ska kunna behandla dina personuppgifter måste det finnas en laglig grund för behandlingen. Laglig grund för behandling är att kunna uppfylla avtalet med dig som användare av tjänsten och behandling av personuppgifter för utskick av nyhetsbrev. 
 
-## Mottagare av personuppgifter
+### Mottagare av personuppgifter
 Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverantörer 3DQuu Production anlitat för att kunna uppfylla åtaganden gentemot dig.
 
 3DQuu Production samarbetar till exempel med följande samarbetspartners eller leverantörer;
@@ -91,14 +91,14 @@ Dina personuppgifter kan komma att behandlas av samarbetspartners eller leverant
 Vissa samarbetspartners eller leverantörer kan ha del av sin verksamhet utanför Sverige eller EU/EES. Om 3DQuu Production  för över uppgifter till sådana samarbetspartners eller leverantörer säkerställer 3DQuu Production bland annat genom avtal att de behandlar och skyddar personuppgifterna på sätt som gällande dataskyddslagstiftning kräver.
  
 
-## Utlämnande
+### Utlämnande
 3DQuu Production kan komma att lämna ut deltagarlistor från evenemang till arrangören av evenemanget.
 
 
 3DQuu Production kan också komma att lämna ut personuppgifter för det fall det föreskrivs i lag eller förordning, med anledning av en pågående juridisk process eller efter en tvingande begäran av myndighet.
  
 
-## Dina rättigheter
+### Dina rättigheter
 Du har rätt att kostnadsfritt begära registerutdrag som innehåller de personuppgifter 3DQuu Production behandlar om dig.
 
 Du har rätt att begära rättelse av uppgifter som är fel. Du har också rätt att begära att dina uppgifter raderas eller att användningen begränsas, men då måste det finnas stöd för detta i relevant dataskyddslagstiftning.
