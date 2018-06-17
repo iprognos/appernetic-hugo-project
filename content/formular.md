@@ -8,6 +8,7 @@ topics: ["topic 1"]
 tags: ["one", "two"]
 ---
 
-# Headline
 
+# Headline
+<script type="text/javascript" src="https://forms.zohopublic.eu/iprognoscom/form/EmailSubscription/jsperma/ptjUqwVKtZgvQl6mbNuqYD1KOZQetnvfE_qdW1mzHIY" id="ZFScript"></script>
 Text
