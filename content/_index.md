@@ -30,7 +30,8 @@ description = "Hitta köp eller säljlägen för nästa dag enkelt och snabbt f�
         <div class="col-lg-12">
           <h2 class="section-heading">iPrognos handelsstrategi</h2>
           <h3 class="section-subheading text-muted">Hitta köp eller säljlägen för nästa dag enkelt och snabbt för Stockholmsbörsen med AI-djupinlärning.</h3>
-          <p class="large">Välj ut köpvärda aktier i bubbeldiagrammet på <a href="https://app.iprognos.com" target="_blank">app.iprognos.com</a>  utifrån procentuell förändring, trend och simulerad avkastning eller sortera fram dom i tabellen. Titta närmare på simulering för vald aktie och om det ser bra ut gå vidare och lägg en köporder hos din bank.  
+          <p class="large">Välj ut köpvärda aktier i vår eposttjänst. Prenumerera här <script type="text/javascript" src="https://forms.zohopublic.eu/iprognoscom/form/EmailSubscription/jsperma/ptjUqwVKtZgvQl6mbNuqYD1KOZQetnvfE_qdW1mzHIY" id="ZFScript"></script>
+  utifrån procentuell förändring, trend och simulerad avkastning eller sortera fram dom i tabellen. Titta närmare på simulering för vald aktie och om det ser bra ut gå vidare och lägg en köporder hos din bank.  
 <p><img src="http://res.cloudinary.com/dtnahfj7l/image/upload/c_scale,w_467/v1518350696/bubbeldiagram_crop_smexzb.png" alt="bubbeldiagram"></p>            
 Djupinlärning används för att förutse den totala dynamiken i aktiernas pris under 10 dagar med marginal för transaktionskostnader på 2.5%.
 
